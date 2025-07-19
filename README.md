@@ -12,9 +12,9 @@ Technologies I Love to Work With
 <hr>
 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="Your GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Top Langs" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=[Ehab-SE]&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ehab-SE]&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[Ehab-SE]&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <!--
 **Ehab-SE/Ehab-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
