@@ -1,20 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ehab Shaaban</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ehab-se&label=Profile%20views&color=0e75b6&style=flat" alt="ehab-se" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehab-se" alt="ehab-se" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
-  </p>
 
 <h3>Technologies I Love to Work With</h3>
 <p align="center">
@@ -26,16 +14,37 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 <hr>
 <h3 align="left">📊 GitHub Stats</h3>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehab-se" alt="ehab-se" /></a> 
+</p>
+<br>
+
+<!--
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ehab-SE&show_icons=true&theme=radical&hide_border=true&border_radius=20&card_width=100%" alt="Your GitHub Stats" />
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-SE&layout=compact&theme=radical&hide_border=true&border_radius=20&card_width=100%" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  </p>
+-->
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ehab-SE&show_icons=true&theme=radical&hide_border=true&border_radius=20&card_width=400" alt="Your GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-SE&theme=cyber-streakglow&hide_border=true&border_radius=20&card_width=400" alt="GitHub Streak" />
  </p>
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-SE&theme=cyber-streakglow&hide_border=true&border_radius=20" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-SE&layout=compact&theme=radical&hide_border=true&border_radius=20&card_width=400" alt="Top Langs" />
 </p>
 
 
