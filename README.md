@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ehab-se&label=Profile%20views&color=0e75b6&style=flat" alt="ehab-se" /> </p>
-
+<hr>
 <h3>Technologies I Love to Work With</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
