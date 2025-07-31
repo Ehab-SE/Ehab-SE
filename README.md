@@ -18,7 +18,7 @@
 <hr>
 <h3 align="left">📊 GitHub Stats</h3>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehab-se" alt="ehab-se" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehab-se&theme=radical" alt="ehab-se" /></a> 
 </p>
 <br>
 
@@ -40,7 +40,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ehab-SE&show_icons=true&theme=radical&hide_border=true&border_radius=20&card_width=400" alt="Your GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-SE&theme=cyber-streakglow&hide_border=true&border_radius=20&card_width=400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-SE&theme=radical&hide_border=true&border_radius=20&card_width=400" alt="GitHub Streak" />
  </p>
 <br>
 <p align="center">
